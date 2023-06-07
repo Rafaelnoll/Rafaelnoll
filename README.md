@@ -13,7 +13,7 @@
 <ul>
     <li>🔭 Atualmente estou trabalhando como desenvolvedor front-end.</li>
     <li>👨‍💻 A maioria dos meus projetos estão disponíveis no <a href="https://github.com/Rafaelnoll?tab=repositories">Github</a></li>
-    <li>💬 Gosto de testar e criar coisas novas, especialmente quando elas podem ajudar a mim ou resolver o problema das pessoas.</li>
+    <li>💬 Gosto de testar e criar coisas novas, especialmente quando elas podem me ajudar ou resolver o problema das pessoas.</li>
     <li>🎉 Curiosidade: Amo livros/filmes de Fantasia e Ficção Cientifica!</li>
 </ul>
 <h2>🚀 Algumas ferramentas que uso</h2>
