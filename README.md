@@ -1,9 +1,7 @@
 
 
 <h2>Hey 👋, <b>I'm Rafael Noll</b></h2>
-<p>Atualmente sou Desenvolvedor front-end, porém também gosto de trabalhar com o back-end, amo trabalhar com tecnologia e atualmente estou 
-  trabalhando como desenvolvedor front-end na Digital Business.
-</p>
+<p>Atualmente sou Desenvolvedor front-end, porém também gosto de trabalhar com o back-end.</p>
 <p>
     <a href="https://www.linkedin.com/in/rafael-noll-ds/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@rafaelnoll-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mazarafa/" alt="LinkedIn Badge"></a> 
 </p>
