@@ -1,25 +1,62 @@
+![](https://komarev.com/ghpvc/?username=Rafaelnoll&color=006bed)
+
+<h3>Sobre mim</h3>
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **Ciência da Computação** na <a href="https://www.atitus.edu.br/">ATITUS</a>.
+- 💬 Gosto de testar e criar coisas novas, especialmente quando elas podem me ajudar ou resolver o problema das pessoas.
+- 🌱 &nbsp; Aprendendo mais sobre **Node, Streams, Next.js, Nest.js**.
+- :video_camera: Tenho um [canal](https://www.youtube.com/channel/UCJTwVoFy1uTfY20wVtenvOg) no youtube onde posto vídeos sobre Typescript, React, Node, entre outras tecnologias.
+
+<h3>Minhas Skills</h3>
+
+**Aplicações e dados**
+
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=flat&logo=webpack)
+![Babel](https://img.shields.io/badge/-Babel-333333?style=flat&logo=babel)
+![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook)
 
 
-<h2>Hey 👋, <b>I'm Rafael Noll</b></h2>
-<p>Atualmente sou Desenvolvedor front-end, porém também gosto de trabalhar com o back-end.</p>
-<p>
-    <a href="https://www.linkedin.com/in/rafael-noll-ds/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@rafaelnoll-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/mazarafa/" alt="LinkedIn Badge"></a> 
-</p>
+**Utilidades**
 
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
-<h2>⚡️ Alguns fatos rápidos</h2>
-<ul>
-    <li>🔭 Atualmente estou trabalhando como desenvolvedor front-end.</li>
-    <li>👨‍💻 A maioria dos meus projetos estão disponíveis no <a href="https://github.com/Rafaelnoll?tab=repositories">Github</a></li>
-    <li>💬 Gosto de testar e criar coisas novas, especialmente quando elas podem me ajudar ou resolver o problema das pessoas.</li>
-    <li>🎉 Curiosidade: Amo livros/filmes de Fantasia e Ficção Cientifica!</li>
-</ul>
-<h2>🚀 Algumas ferramentas que uso</h2>
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" /> 
-</p>
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/Rafaelnoll">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafaelnoll&theme=dracula&show_icons=true" />
+</a>
+
+<h3>Onde me encontrar</h3>
+
+[![Linkedin](https://img.shields.io/badge/-Rafael%20Noll-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-noll-ds/)](https://www.linkedin.com/in/rafael-noll-ds/)
+[![Gmail Badge](https://img.shields.io/badge/-rafanoll2004@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafanoll2004@gmail.com)](mailto:rafanoll2004@gmail.com)
+[![Youtube](https://img.shields.io/badge/-Rafa%20Dev-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCJTwVoFy1uTfY20wVtenvOg)](https://www.youtube.com/channel/UCJTwVoFy1uTfY20wVtenvOg)
+[![Instagram](https://img.shields.io/badge/-rafaelnoll.dev-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/rafa_noll.dev/)](https://www.instagram.com/rafa_noll.dev/)
+[![GitHub](https://img.shields.io/github/followers/Rafaelnoll?label=follow&style=social)](https://github.com/Rafaelnoll)
