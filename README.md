@@ -3,7 +3,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando **Ciência da Computação** na <a href="https://www.atitus.edu.br/">ATITUS</a>.
 - 💬 Gosto de testar e criar coisas novas, especialmente quando elas podem me ajudar ou resolver o problema das pessoas.
-- 🌱 &nbsp; Aprendendo mais sobre **Node, Streams, Next.js, Nest.js**.
+- 🌱 &nbsp; Aprendendo mais sobre **Node, Streams, MongoDB, React Native**.
 - :video_camera: Tenho um [canal](https://www.youtube.com/channel/UCJTwVoFy1uTfY20wVtenvOg) no youtube onde posto vídeos sobre Typescript, React, Node, entre outras tecnologias.
 
 <h3>Minhas Skills</h3>
